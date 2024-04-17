@@ -1,6 +1,3 @@
-# database
-sachinphogat1.github.io/database
-
 # Data Engineer
 Masters in Computer Science @University of Maryland, Baltimore County
 
